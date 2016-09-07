@@ -1,1 +1,1 @@
-http://mybinder.org/badge.svg :target: http://mybinder.org:/repo/annakweigel/python_tutorial
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/annakweigel/python_tutorial)
