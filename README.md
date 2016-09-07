@@ -1,6 +1,6 @@
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/annakweigel/python_tutorial)
 
-Chapter 1:
+**Chapter 1:**
 
 - Introduction
     + The Python principle
@@ -19,7 +19,7 @@ Chapter 1:
     + For loops
     + If statements and for loops in a single line
 
-Chapter 2:
+**Chapter 2:**
 
 - Numpy:
     + Reading in packages
@@ -27,7 +27,7 @@ Chapter 2:
     + arrays
 - A word of caution
 
-Chapter 3:
+**Chapter 3:**
 
 - Dictionaries
     + Basic dictionaries
