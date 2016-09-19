@@ -1,15 +1,14 @@
-***Python introduction***
-by Anna weigel
-anna[dot]weigel[at]phys[dot]ethz[dot]ch
-Version 2, September 2016
+# Python introduction
+
+### by Anna weigel
+### anna[dot]weigel[at]phys[dot]ethz[dot]ch
+### Version 2, September 2016
 
 To run the ipython notebooks within your browser using mybinder.org click the button below: 
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/annakweigel/python_tutorial)
 
-## Test
-
-**Chapter 1:**
+## Chapter 1:
 
 - Introduction
     + The Python principle
@@ -28,7 +27,7 @@ To run the ipython notebooks within your browser using mybinder.org click the bu
     + For loops
     + If statements and for loops in a single line
 
-**Chapter 2:**
+## Chapter 2:
 
 - Numpy:
     + Reading in packages
@@ -36,7 +35,7 @@ To run the ipython notebooks within your browser using mybinder.org click the bu
     + arrays
 - A word of caution
 
-**Chapter 3:**
+## Chapter 3:
 
 - Dictionaries
     + Basic dictionaries
@@ -48,14 +47,14 @@ To run the ipython notebooks within your browser using mybinder.org click the bu
     + args and kwargs
     + Exercise
 
-**Chapter 4:**
+## Chapter 4:
 
 - Working with .fits files
     + fits tables
     + fits images
     + Exercise
 
-**Chapter 5:**
+## Chapter 5:
 
 - Plotting I
 - Python masks
@@ -64,7 +63,7 @@ To run the ipython notebooks within your browser using mybinder.org click the bu
     + Example III
     + Exercise
 
-**Chapter 6:**
+## Chapter 6:
 
 - Plotting II
     + Plot properties
@@ -74,7 +73,7 @@ To run the ipython notebooks within your browser using mybinder.org click the bu
     + Example: plotting the mass distribution of red and blue galaxies
     + Example: creating a new fits table
 
-Sources:
+### Sources:
 * A big thank you to Andrina Nicola and her python introduction
 * http://introtopython.org/dictionaries.html 
 * http://www.saltycrane.com/blog/2008/01/how-to-use-args-and-kwargs-in-python/
